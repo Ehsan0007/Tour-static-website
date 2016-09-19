@@ -1,0 +1,210 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    margin: 0 auto;
+    width: 900px;
+    border: 4px double #000000;
+    margin-top: 8px;
+}
+.header{
+    margin: 0 auto;
+    width: 60%;
+    margin-right: -4em;
+}
+.logo{
+    width: 190px;
+    height: 140px;
+}
+.contentArea{
+    margin: 0 auto;
+    width: 60%;
+}
+.unOrder{
+    list-style-type: none;
+    border-top: 2px double #000000;
+    border-bottom: 1px double #000000;
+    padding: 5px;
+    text-align: center;
+    word-spacing: 30px;
+}
+.unOrder>li{
+    display: inline;
+    border-top: 2px;
+}
+.paragraph-1{
+    text-align: center;
+}
+.image-1{
+    width: 540px;
+    height: 250px;
+}
+.anchor{
+    text-decoration: none;
+}
+.anchor:hover{
+    color: coral;
+}
+.bottom{
+    border: 4px double #000000;
+    width: 70%;
+    padding: 10px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+
+/*For Tours Content*/
+.container-2{
+    margin: 0 auto;
+    width: 540px;
+    margin-top: 8px;
+}
+.contentArea-2{
+    margin: 0 auto;
+    width: 100%;
+}
+.paragraph-2{
+    text-align: center;
+}
+.image-2{
+    width: 540px;
+    height: 250px;
+    
+}
+
+
+/*For Services Content*/
+.container-1{
+    margin: 0 auto;
+    width: 540px;
+    margin-top: 8px;
+}
+.contentArea-1{
+    margin: 0 auto;
+    width: 100%;
+}
+.paragraph-3{
+    text-align: center;
+}
+.image-3{
+    width: 540px;
+    height: 250px;
+    
+}
+
+
+/*For ContactUs Content*/
+.container-3{
+    margin: 0 auto;
+    width: 540px;
+    margin-top: 8px;
+}
+.contentArea-3{
+    margin: 0 auto;
+    width: 100%;
+}
+.paragraph-4{
+    text-align: center;
+}
+form{
+    margin: 0 auto;
+    width: 100%;
+    min-height: 300px;
+}
+.input{
+    width: 47%;
+    height: 30px;
+    float: left;
+    border: 1px solid silver;
+    border-radius: 13px;
+    margin-top: 1em;
+    outline: none;
+}
+.input-1{
+    width: 47%;
+    height: 30px;
+    float: right;
+    border: 1px solid silver;
+    margin-top: 1em;
+    border-radius: 13px;
+    outline: none;
+}
+.input-2{
+    width: 47%;
+    height: 30px;
+    float: left;
+    border: 1px solid silver;
+    border-radius: 13px;
+    outline: none;
+    margin-top: 1em;
+}
+.input-3{
+    width: 47%;
+    height: 30px;
+    float: right;
+    border: 1px solid silver;
+    border-radius: 13px;
+    outline: none;
+    margin-top: 1em;
+}
+.textArea{
+    width: 98.6%;
+    border: 1px solid silver;
+    margin-top: 1em;
+    outline: none;
+}
+.input-4{
+    width: 27%;
+    height: 20px;
+    margin: 1em 0 2em 1.5em;
+    border: 1px solid silver;
+    outline: none;
+}
+.btn{
+    width: 17%;
+    height: 30px;
+    float: right;
+    border-radius: 13px;
+    border: 1px solid silver;
+    background-color: dodgerblue;
+    margin-top: 0.74em; 
+    outline: none;
+    color: #ffffff;
+    font-weight: bold;
+}
+
+
+/*For About Us Content*/
+.container-4{
+    margin: 0 auto;
+    width: 540px;
+    margin-top: 8px;
+}
+.contentArea-4{
+    margin: 0 auto;
+    width: 100%;
+}
+.paragraph-5{
+    text-align: center;
+}
+.image-4{
+    width: 540px;
+    height: 250px;
+}
+
+
+/*For Index Content*/
+.container-5{
+    margin: 0 auto;
+    width: 540px;
+    margin-top: 8px;
+}
+.contentArea-5{
+    margin: 0 auto;
+    width: 100%;
+}
+input{width:250px;height:25px;border-radius:5px;border:1px solid #666;margin:10px;}
+label{font-weight:bold;}
+.input_4{margin-left:30px;}
